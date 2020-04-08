@@ -14,12 +14,12 @@ Program For Voting Multiple votes in polltab.com website using proxies
             1. specifier = <paste Your specifier data in here>
             Ex: For this given URL "https://www.polltab.com/pA74aXiiBi"
                 specifier = pA74aXiiBi
-                Refer : Usage/get_specifier.mp4
+                Refer : Usage/get_specifier
             
             
             2. x = {<Copy and paste the POST data that is transferred from the computer to the polltab server in here>}
                 For Example Refer 
-                  Usage/get_data.mp4 
+                  Usage/get_data
               
   Main Execution:
       
